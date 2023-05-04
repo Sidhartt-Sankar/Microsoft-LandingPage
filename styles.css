@@ -53,6 +53,7 @@ body {
     align-items: center;
     justify-content: flex-end;
     flex-shrink: 2;
+    border:none;
 }
 
 #dropdown-btn select {
